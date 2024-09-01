@@ -1,0 +1,60 @@
+[
+    {
+        "slug": "blog-1",
+        "imgSrc": "images/RPA.jpg",
+        "category": "Beginner",
+        "title": "What is RPA?",
+        "author": "P Praneetha",
+        "date": "23-Dec-2023",
+        "readTime": "3 min read",
+        "tableOfContents": [
+            "What is RPA?",
+            "How does it Help you?"
+        ],
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "RPA stands for Robotic Process Automation, though may sound like a lot of complex words joined together, it simply means automating the repetitive tasks we may find in our daily routine."
+            },
+            {
+                "type": "image",
+                "src": "https://source.unsplash.com/random/1920x1080?work,tech,productivity,laptop",
+                "alt": "blog"
+            },
+            {
+                "type": "paragraph",
+                "text": "Imagine you have to copy information from one spreadsheet to a word document every day or send emails to a bunch of people; RPA can do that for you. It’s almost like an actual robot doing the work for you (but instead of a physical robot, it is a software robot), hence the name Robotic Process Automation."
+            },
+            {
+                "type": "image",
+                "src": "https://source.unsplash.com/random/1920x1080?tech,productivity,laptop",
+                "alt": "blog"
+            },
+            {
+                "type": "paragraph",
+                "text": "Take an example of sending personalized emails to a bunch of people who attended your seminar, an RPA bot can do the same work faster, more efficiently and without mistakes. It's like having a helper who never gets tired. Companies use RPA in various areas, like processing invoices, handling customer queries, or managing data entry tasks. Learning RPA is like teaching your computer a few tricks to handle the boring stuff, so you can focus on more exciting things!"
+            }
+        ]
+    },
+    {
+        "slug": "blog-2",
+        "imgSrc": "images/why.jpg",
+        "category": "Technology",
+        "title": "Why choose UiPath for RPA?",
+        "author": "P Praneetha"
+    },
+    {
+        "slug": "blog-3",
+        "imgSrc": "images/know.jpg",
+        "category": "Beginner",
+        "title": "Things to know before starting journey in Uipath",
+        "author": "P Praneetha"
+    },
+    {
+        "slug": "blog-4",
+        "imgSrc": "images/mistakes.jpg",
+        "category": "Technology",
+        "title": "Common mistakes in UiPath",
+        "author": "Praneetha"
+    }
+]
